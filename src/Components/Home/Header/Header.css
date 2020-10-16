@@ -1,0 +1,15 @@
+.header-font{
+    font-size:48px;
+}
+@media only screen and (max-width: 767px) {
+    .header-font {
+        font-size:35px;
+        text-align:center
+    }
+  }
+@media only screen and (min-width:768px) and (max-width: 1000px) {
+    .header-font {
+        font-size:40px
+    }
+  }
+  

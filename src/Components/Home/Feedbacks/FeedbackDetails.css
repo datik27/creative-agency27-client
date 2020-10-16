@@ -1,0 +1,5 @@
+.feedback-details-card{
+    box-shadow:2px 2px 2px whitesmoke, -2px -2px 2px whitesmoke;
+    border-radius:8px;
+    cursor:pointer;
+}
